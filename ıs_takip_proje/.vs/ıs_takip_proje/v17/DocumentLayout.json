@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|c:\\users\\asiya\\onedrive\\masa\u00FCst\u00FC\\231116051__as\u0130ya \u00E7el\u0130k\\\u0131s_takip_proje\\\u0131s_takip_proje\\frmaktifcagrilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|solutionrelative:\u0131s_takip_proje\\frmaktifcagrilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|c:\\users\\asiya\\onedrive\\masa\u00FCst\u00FC\\231116051__as\u0130ya \u00E7el\u0130k\\\u0131s_takip_proje\\\u0131s_takip_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|solutionrelative:\u0131s_takip_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|c:\\users\\asiya\\onedrive\\masa\u00FCst\u00FC\\231116051__as\u0130ya \u00E7el\u0130k\\\u0131s_takip_proje\\\u0131s_takip_proje\\frmaktifcagrilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|solutionrelative:\u0131s_takip_proje\\frmaktifcagrilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|c:\\users\\asiya\\onedrive\\masa\u00FCst\u00FC\\231116051__as\u0130ya \u00E7el\u0130k\\\u0131s_takip_proje\\\u0131s_takip_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|solutionrelative:\u0131s_takip_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\formlar\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|solutionrelative:\u0131s_takip_proje\\formlar\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|c:\\users\\asiya\\onedrive\\masa\u00FCst\u00FC\\231116051__as\u0130ya \u00E7el\u0130k\\\u0131s_takip_proje\\\u0131s_takip_proje\\formlar\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F569F92-F37E-4B8A-85F4-4700F20290F7}|\u0131s_takip_proje\\\u0131s_takip_proje.csproj|solutionrelative:\u0131s_takip_proje\\formlar\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0131s_takip_proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\Form1.cs",
+              "RelativeToolTip": "\u0131s_takip_proje\\Form1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:57:43.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAktifCagrilar.cs",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\frmAktifCagrilar.cs",
+              "RelativeDocumentMoniker": "\u0131s_takip_proje\\frmAktifCagrilar.cs",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\frmAktifCagrilar.cs",
+              "RelativeToolTip": "\u0131s_takip_proje\\frmAktifCagrilar.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:55:06.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAktifCagrilar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\frmAktifCagrilar.cs",
+              "RelativeDocumentMoniker": "\u0131s_takip_proje\\frmAktifCagrilar.cs",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\frmAktifCagrilar.cs [Design]",
+              "RelativeToolTip": "\u0131s_takip_proje\\frmAktifCagrilar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:49:20.752Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0131s_takip_proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\Form1.cs [Design]",
+              "RelativeToolTip": "\u0131s_takip_proje\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:44:36.691Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\Formlar\\frmAnaForm.cs",
+              "RelativeDocumentMoniker": "\u0131s_takip_proje\\Formlar\\frmAnaForm.cs",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\Formlar\\frmAnaForm.cs",
+              "RelativeToolTip": "\u0131s_takip_proje\\Formlar\\frmAnaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:23:23.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\Formlar\\frmAnaForm.cs",
+              "RelativeDocumentMoniker": "\u0131s_takip_proje\\Formlar\\frmAnaForm.cs",
+              "ToolTip": "C:\\Users\\asiya\\OneDrive\\Masa\u00FCst\u00FC\\231116051__AS\u0130YA \u00C7EL\u0130K\\\u0131s_takip_proje\\\u0131s_takip_proje\\Formlar\\frmAnaForm.cs [Design]",
+              "RelativeToolTip": "\u0131s_takip_proje\\Formlar\\frmAnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:00:19.567Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
